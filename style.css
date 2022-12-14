@@ -1,0 +1,21 @@
+.div_menu{
+  background-color: black;
+}
+.menu{
+  color: white;
+  text-transform: uppercase;
+}
+p{
+  text-align: justify;
+}
+.footer{
+  text-align: center;
+  color:white;
+}
+.footer-alamat{
+  text-align: center;
+  color: white;
+}
+footer{
+  background-color: black;
+}
